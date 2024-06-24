@@ -1,2 +1,4 @@
 def handler():
-    print("hello Larkies!!")
+    i = 10
+    for id in i:
+        print("hello Larkies!!")
